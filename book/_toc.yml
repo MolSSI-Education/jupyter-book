@@ -2,3 +2,4 @@ format: jb-article
 root: intro
 sections:
 - file: setup
+- file: sample
